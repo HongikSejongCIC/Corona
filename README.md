@@ -1,4 +1,4 @@
-# Term - project
+# Object-Oriented Design Term - project
 
 Group name : Corona 
 
